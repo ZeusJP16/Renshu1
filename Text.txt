@@ -1,3 +1,7 @@
 Hello work
+<<<<<<< HEAD
 1. Study git
+=======
+1. hoc cach su dung git
+>>>>>>> 42d5ceb (3)
 2. setting
